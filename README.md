@@ -1,3 +1,4 @@
+![Alt text](/WORDPRESS_REFERENCE_ARCHITECTURE.png)
 # Host a WordPress Website on AWS
 
 ## Overview
